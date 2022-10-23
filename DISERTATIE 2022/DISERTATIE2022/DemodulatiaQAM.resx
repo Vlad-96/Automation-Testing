@@ -1,0 +1,115 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>- considerentele prezentate în cursul de DPSK-QAM pentru varianta cu FTJ, privitoare la acest tip de demodulator MAQ îşi păstrează valabilitatea şi în cazul demodulării semnalelor ASK+PSK.:
+- expresia semnalului ASK+PSK recepţionat poate fi exprimat prin (1), în care prin I’(t) şi Q’(t) s-au notat semnalele modulatoare afectate de perturbaţiile şi distorsiunile canalului:</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Metoda cea mai utilizată pentru demodularea semnalelor ASK+PSK este metoda MAQ, datorită proprietăţii acestor semnale de a putea fi exprimate ca semnale MAQ.
+Există două variante de demodulatoare MAQ:
+- demodulatoare MAQ ce utilizează filtre trece-jos pe fiecare cale;
+- demodulatoare MAQ care utilizează transformata Hilbert a semnalului recepţionat;</value>
+  </data>
+  <data name="richTextBox6.Text" xml:space="preserve">
+    <value>- metoda de recuperare a purtătorului controlată de decizie („decision directed carrier recovery” – DDCR) foloseşte semnalele bandă de bază sondate Ik’ şi Qk’, şi nivelele decise, Ik* şi Qk*.
+- se presupune că purtătorul local este generat cu o eroare de fază variabilă în timp dată de</value>
+  </data>
+  <data name="richTextBox5.Text" xml:space="preserve">
+    <value> extragerea din semnalul recepţionat a unui semnal care este folosit ca referinţă de fază şi care este introdus în comparatorul de fază al unui circuit PLL, numită recuperare;
+ sincronizarea unui semnal cu frecvenţa fp, generat local, cu ajutorul unui circuit PLL folosind ca referinţă de fază semnalul recuperat în etapa anterioară</value>
+  </data>
+  <data name="richTextBox12.Text" xml:space="preserve">
+    <value>relaţia aproximativă de calcul a probabilităţii de eroare de simbol a constelaţiilor ASK+PSK pătrate (n – par) este dată de ecuatia 1, în care factorul k ia valori distincte pentru semnalul pe purtător cosinusoidal sau în banda de bază. </value>
+  </data>
+  <data name="richTextBox11.Text" xml:space="preserve">
+    <value>- constelaţiile pătrate 16-QAM şi 64-QAM şi chiar 256-QAM sunt utilizate în mod adaptiv, alături de variantele modulaţiei QPSK (OQPSK şi π/4-QPSK), în transmisiile monopurtător între radiorelee, putând asigura debite binare de până la 155,52 Mbps, adică transmiterea unui flux de tip STM-1.
+
+- de asemenea constelaţiile 16 şi 64-QAM sunt utilizate adaptiv, alături de modulaţie QPSK, în transmisiile multipurtător (OFDM) pentru transmiterea semnalelor de televiziune digitală DVB şi audio digital DAB difuzate, atât pe canale radio terestre (DVB-T) cât şi pe canalele de satelit (DVB-S). 
+
+- pentru asigurarea unor probabilităţi de eroare scăzute, constelaţiile QAM erau codate cu coduri convoluţionale si RS, iar în prezent aceste coduri sunt înlocuite de codurile Turbo și LDPC.</value>
+  </data>
+  <data name="richTextBox10.Text" xml:space="preserve">
+    <value>- în varianta sa necodată modulaţia 16-QAM este ( a fost) utilizată pentru transmisiile cu D ≤ 9600bps, pe canalele telefonice vocale, Recomandările ITU-T V.22bis, V.29 şi V. 32.
+
+- constelaţiile QAM de ordin mai mare sunt (au fost) folosite în Recomandările ITU-T, V.32 bis, V.33, având debite D ≤ 14.400 bps, în Recomandările V.34, D ≤ 33.600 bps, V.90, D ≤ 56 kbps şi V.92, D ≤ 64 kbps. 
+
+- datorită optimizărilor constelaţiilor QAM şi a codurilor corectoare utilizate, modulaţiile QAM codate cu coduri convoluționale ating eficienţe spectrale extrem de ridicate, de până la 16 bps/Hz, în condiţiile asigurării unei BER &lt; 1·10-5.</value>
+  </data>
+  <data name="richTextBox9.Text" xml:space="preserve">
+    <value>- modulaţiile QPSK, 16-QAM şi 64-QAM sunt utilizate în transmisiunile destinate utilizatorilor nomadici, conforme cu standardul 802.11 atât în variante monopurtător, b. cât şi multipurtător (OFDM), g,..,ac ultima putând asigura debite de până la 7Gbps, în funcţie de parametrii canalului radio;
+
+- modulaţiile QPSK şi 16-QAM sunt de asemenea utilizate în transmisiunile mobile conforme cu standardul 3GPP, asigurând debite de până la 384 kbps/abonat;
+
+- şi în aceste caz constelaţiile QAM sunt utilizate adaptiv în combinaţie cu coduri corectoare de erori;
+
+-studiile efectuate în prezent arată că transmisiunile multipurtător, de tip OFDM, ce utilizează constelaţiile QPSK, 16 şi 64-QAM pe fiecare subpurtătoare, sunt principalele canditate pentru a fi standardizate pentru legătura downlink a sistemului 5G, putând asigura debite de până la 1 Gbps pe o purtătoare radio;</value>
+  </data>
+  <data name="richTextBox8.Text" xml:space="preserve">
+    <value>- modulaţiile QAM sunt utilizate în transmisiunile de pe fire fizice torsadate în sistemele tip xDSL care asigură legătura de abonat.
+
+- sistemul HDSL utilizează modulaţia CAP, cu constelaţiile 16 sau 64-CAP;
+
+- sistemul ADSL utilizează modulaţii QAM multipurtător (multitonale –DMT) cu constelaţii de la 2-PSK până la 2 15 -QAM pentru a asigura debite de până la 300 Mbps (downstream) şi 150 Mbps (upstream).
+
+- sistemul VDSL utilizează aceleaşi constelaţii în modulaţii DMT cu 1000 de tonuri pe sens de tranmisie, asigurând debite de până la 300 Mbps pe sens de transmisie.
+
+- ambele sisteme utilizează coduri corectoare de erori, iar constelaţiile QAM sunt folosite adaptiv, în funcţie de atenuarea cablului. </value>
+  </data>
+</root>

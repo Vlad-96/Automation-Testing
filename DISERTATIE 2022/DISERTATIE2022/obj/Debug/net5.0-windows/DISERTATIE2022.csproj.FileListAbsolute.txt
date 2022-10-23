@@ -1,0 +1,148 @@
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.exe
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.deps.json
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.runtimeconfig.json
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.runtimeconfig.dev.json
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.dll
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\ref\DISERTATIE2022.dll
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.pdb
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.AssemblyReference.cache
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Form1.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Properties.Resources.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.GenerateResource.cache
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.AssemblyInfoInputs.cache
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.AssemblyInfo.cs
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.CoreCompileInputs.cache
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.dll
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\ref\DISERTATIE2022.dll
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.pdb
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.genruntimeconfig.cache
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaAM.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMA.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.SpectrulSemnaluluiMA.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\OxyPlot.dll
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.CopyComplete
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMaBLDPS.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaInAmplitudine.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaInFrecventa.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaInFrecventa.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaQAM.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaQAM.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMF.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.TransmisiaBB.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodularecubuclaPLL.resources
+C:\Users\Danut\source\repos\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Demodulareprinderivareșidetecțiedeanvelopă.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.exe
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.deps.json
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.runtimeconfig.json
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.dll
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.pdb
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\OxyPlot.dll
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodularecubuclaPLL.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Demodulareprinderivareșidetecțiedeanvelopă.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaInAmplitudine.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaInFrecventa.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaQAM.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Form1.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMA.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMaBLDPS.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMF.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaAM.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaInFrecventa.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaQAM.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Properties.Resources.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.TransmisiaBB.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.CopyComplete
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.dll
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\refint\DISERTATIE2022.dll
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.pdb
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\ref\DISERTATIE2022.dll
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.exe
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.deps.json
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.runtimeconfig.json
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.runtimeconfig.dev.json
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.dll
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\ref\DISERTATIE2022.dll
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.pdb
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\OxyPlot.dll
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\bin\Debug\net5.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.AssemblyReference.cache
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Demodularea_Coerenta.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Demodularea_Necoerenta.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodularecubuclaPLL.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Demodulareprinderivareșidetecțiedeanvelopă.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaInAmplitudine.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaInFrecventa.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaQAM.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Form1.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMA.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMaBLDPS.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMF.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaAM.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaInFrecventa.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaQAM.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Properties.Resources.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.SpectrulSemnaluluiMA.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.TransmisiaBB.resources
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.GenerateResource.cache
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.AssemblyInfoInputs.cache
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.AssemblyInfo.cs
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.CoreCompileInputs.cache
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.CopyComplete
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.dll
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\ref\DISERTATIE2022.dll
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.pdb
+C:\Users\Danut\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Demodularea_Coerenta.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Demodularea_Necoerenta.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.SpectrulMA.resources
+C:\Users\Vlad\Desktop\DISERTATIE2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GMD.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.exe
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.deps.json
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.runtimeconfig.json
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.runtimeconfig.dev.json
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.dll
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\bin\Debug\net5.0-windows\DISERTATIE2022.pdb
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\bin\Debug\net5.0-windows\OxyPlot.dll
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\bin\Debug\net5.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Demodularea_Coerenta.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Demodularea_Necoerenta.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodularecubuclaPLL.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Demodulareprinderivareșidetecțiedeanvelopă.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaInAmplitudine.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaInFrecventa.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.DemodulatiaQAM.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Form1.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMA.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMaBLDPS.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GenerareaSemnaluluiMF.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GMD.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaAM.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaInFrecventa.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.ModulatiaQAM.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.Properties.Resources.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.SpectrulMA.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.TransmisiaBB.resources
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.csproj.CopyComplete
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.dll
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\refint\DISERTATIE2022.dll
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.pdb
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\DISERTATIE2022.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\DISERTATIE 2022\DISERTATIE2022\obj\Debug\net5.0-windows\ref\DISERTATIE2022.dll

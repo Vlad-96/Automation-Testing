@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1Oi9nDYhZOuJbOvO1+M3g38rD2VPQ/L/LhQP8aN1haRetMe1YY1He6LdtAWu4sg12iKV/TA+Qjjfx5JcXfw0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vlad\\Desktop\\DISERTATIE 2022\\DISERTATIE2022\\DISERTATIE2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vlad\\.nuget\\packages\\oxyplot.core\\2.1.0\\oxyplot.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Vlad\\.nuget\\packages\\oxyplot.windowsforms\\2.1.0\\oxyplot.windowsforms.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
