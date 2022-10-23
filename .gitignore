@@ -1,0 +1,17 @@
+
+*.png
+*.cs
+*.png
+*.PNG
+JavaExercices/.classpath
+JavaExercices/.settings/org.eclipse.jdt.core.prefs
+JavaExercices/.settings/org.eclipse.core.resources.prefs
+JavaExercices/.project
+JavaExercices/bin/Test3.class
+JavaExercices/bin/Test2.class
+JavaExercices/bin/Test1.class
+JavaExercices/bin/Student.class
+JavaExercices/bin/Sirul.class
+JavaExercices/bin/Sir.class
+JavaExercices/bin/Recapitulare.class
+JavaExercices/bin/Persoane.class
