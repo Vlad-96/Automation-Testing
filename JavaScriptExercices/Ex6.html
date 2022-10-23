@@ -1,0 +1,94 @@
+<script>
+
+let number1=45;
+let number2=57;
+let result;
+
+function afisare_valori()
+{
+     console.log("Prima valoare este:"+number1);
+     console.log("A doua valoare este:"+number2);
+}
+
+
+
+function suma()
+{
+    result=number1+number2;
+    console.log("Suma celor doua numere este:"+result);
+}
+
+function diferenta()
+{
+     result=number1 - number2;
+     console.log("Diferenta celor doua numere este:"+result);
+}
+
+function produs()
+{
+     result=number1 * number2;
+     console.log("Produsul celor doua numere este:"+result);
+}
+
+function cat()
+{
+     result=number1 / number2;
+     console.log("Catul celor doua numere este:"+result);
+}
+
+
+function comparare()
+{
+     if(number1>number2){
+          console.log("Prima valoare este mai mare")
+     }else{
+          if(number1<number2){
+               console.log("A doua valoare este mai mare");
+          }else{
+               if(number1==number2){
+                    console.log("Cele doua valori sunt egale")
+               }
+          }
+     }
+}
+
+
+function media_aritmetica()
+{
+     result=(number1+number1)/2;
+     console.log("Media ritmetica a celor doua numere este:"+result);
+}
+
+function media_geometrica()
+{
+     result=number1 * number2;
+     console.log("Media geometrica a celor doua numere este:"+Math.sqrt(result));
+}
+
+function inversul_numerelor()
+{
+     console.log("Inversul primei valori este:"+(1/number1));
+     console.log("Inversul celei de a doua valori este:"+(1/number2));
+}
+
+function opusul_numerelor()
+{
+     console.log("Opusul primei valori este:"+(-1 * number1));
+     console.log("Opusul celei de a doua valori este:"+(-1 * number2));
+}
+
+afisare_valori();
+suma();
+diferenta();
+produs();
+cat();
+comparare();
+media_aritmetica();
+media_geometrica();
+inversul_numerelor();
+opusul_numerelor();
+
+
+
+
+</script>

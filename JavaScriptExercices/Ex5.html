@@ -1,0 +1,119 @@
+<script>
+
+
+let sir=["8","-7","4","1","6"];
+
+console.log("Sirul nostru este urmatorul:")
+
+for(let i=0; i<sir.length;i++)
+{
+      console.log(sir[i]);
+
+}
+
+console.log("Numerele divizibile cu 2 sunt:");
+
+for(let i=0;i<sir.length;i++)
+{
+    if(sir[i]%2==0)
+    {
+       console.log(sir[i]);
+    }
+}
+
+
+console.log("Numerele divizibile cu 3 sunt:");
+
+for(let i=0;i<sir.length;i++)
+{
+    if(sir[i]%3==0)
+    {
+        console.log(sir[i]);
+    }
+}
+
+console.log("Numerele divizibile cu 4 sunt:");
+
+for(let i=0;i<sir.length;i++)
+{
+    if(sir[i]%4==0)
+    {
+         console.log(sir[i]);
+    }
+}
+
+console.log("Numerele poztive din sir sunt:");
+
+for(let i=0;i<sir.length;i++)
+{
+    if(sir[i]>0)
+    {
+         console.log(sir[i]);
+    }
+}
+
+
+console.log("Numerele negative dn sir sunt:");
+
+for(let i=0;i<sir.length;i++)
+{
+     if(sir[i]<0)
+     {
+          console.log(sir[i]);
+     }
+}
+
+console.log("Inversul sirului numeric este:");
+
+for(let i=sir.length-1;i>=0;i--)
+{
+     console.log(sir[i]);
+}
+
+console.log("Numerele pare din sir sunt:");
+
+for(let i=0;i<sir.length;i++)
+{
+    if(sir[i]%2==0)
+    {
+      console.log(sir[i]);
+    }
+}
+
+console.log("Numerele impare din sir sunt:");
+
+for(let i=0;i<sir.length;i++)
+{
+     if(sir[i]%2==1)
+     {
+        console.log(sir[i]);
+     }
+}
+
+console.log("Cel mai mare element din sir este:");
+
+for(let i=0;i<sir.length;i++)
+{
+    let minElement=Math.min.apply(Math,sir);
+    console.log(minElement);
+}
+
+console.log("Cel mai mic element din sir este:");
+
+for(let i=0;i<sir.length;i++)
+{
+    let maxElement=Math.max.apply(Math,sir);
+    console.log(maxElement);
+}
+
+console.log("Ordonarea crecatoare a sirului este:"+sir.sort());
+
+console.log("Ordonarea descrescatoare a sirului este:"+sir.reverse());
+
+
+
+
+
+
+
+</script>

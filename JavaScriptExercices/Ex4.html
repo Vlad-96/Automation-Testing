@@ -1,0 +1,83 @@
+<script>
+
+
+let numere_romana=["0","1","2","3","4","5","6","7","8","9","10"];
+let numere_germana=["null","eins","zwei","drei","fier","funf","sechs","sieben","acht","neun","zwen"];
+
+function afisarenumeregermana_metoda1()
+{
+
+console.log("Sa invatam numerele in limba germana:");
+for(let i=0;i<numere_romana.length;i++)
+{
+     console.log(numere_romana[i]+ ":"+ numere_germana[i]);
+}
+
+}
+
+function afisarenumeregermana_metoda2()
+{
+
+console.log("Sa invatam numerele in limba germana:");
+for(let i=0;i<numere_romana.length;i++)
+{
+       console.log(i+ ":"+ numere_germana[i]);
+}
+
+
+
+
+}
+
+function numerepare()
+{
+
+console.log("Numere pare sunt:");
+for(let i=0;i<numere_romana.length;i++)
+{
+      if(i%2==0)
+      {
+        console.log(numere_romana[i]);
+      }
+}
+
+}
+
+
+function numereimpare()
+{
+
+console.log("Numerele impare sunt:");
+for(let i=0;i<numere_romana.length;i++)
+{
+     if(i%2==1)
+     {
+        console.log(numere_romana[i]);
+     }
+}
+
+}
+
+
+function patratperfect()
+{
+
+console.log("Patratele perfecte din sir sunt:");
+for(let i=0;i<numere_romana;i++)
+{
+
+    if(numere_romana[i]==Math.pow(2,2))
+    {
+        console.log(numere_romana[i]);
+    }
+}
+
+
+}
+numerepare();
+numereimpare();
+afisarenumeregermana_metoda1();
+afisarenumeregermana_metoda2();
+patratperfect();
+
+</script>
